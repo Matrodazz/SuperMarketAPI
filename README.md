@@ -1,6 +1,15 @@
 # StoreLiteApi
 Versão atualizada do trabalho de faculdade para uma criação de API de um aplicativo que conecta o comércio com o consumidor.
 
+## How To
+
+* Clone o repositorio e insira as credenciais do Banco de Dados em application.properties
+  `git clone https://github.com/Matrodazz/SuperMarketAPI.git`
+
+* Suba o projeto já com as credenciais do banco de dados em um novo repositório
+
+*  Crie um App Services no Azure e conecte este novo repositório Git para Deploy
+
 ## Endpoint
 
 * Produto
